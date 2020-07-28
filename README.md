@@ -17,6 +17,7 @@
    <h3>subject to</h3>
 <div align="center">
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C&space;\,&space;\,&space;\,&space;\,&space;x_{i}\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
+   <div align="right">①</div>
 </div>
 
 ***
