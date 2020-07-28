@@ -9,9 +9,12 @@
 　　　　C：重量制限
 ***
     
-** 定式化  
+**定式化  
 
-　<img src="https://latex.codecogs.com/gif.latex?Maximize&space;\sum_{i\in&space;I}^{}&space;w_i{x_{i}}">
+<img src="https://latex.codecogs.com/gif.latex?Maximize&space;\sum_{i\in&space;I}^{}&space;w_i{x_{i}}">
+
+<img src="https://latex.codecogs.com/gif.latex?suject&space;\;&space;\,&space;to">
+ 
  
 
 ***
