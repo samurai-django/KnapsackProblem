@@ -10,7 +10,7 @@
 
 <h2>定式化</h2>
 
-    Maximize
+   <h3>Maximize<h3>
 <div align="center">   
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
 </div>   
