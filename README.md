@@ -3,9 +3,10 @@
 
 
 ナップサック問題：ナップサックの重量制限以下となる制約下で価値合計が最大となる荷物を選ぶ.  
-　　　　I：荷物の集合={0,...,19},  
+　　　　I：荷物の集合={0,...,19},   J:飴の集合 = {14,15,16,17,18}
 　　　　<img src="https://latex.codecogs.com/gif.latex?x_{i}">∈{0,1}: 荷物iを選ぶなら1，そうでない0とするバイナリ変数.  
 　　　　<img src="https://latex.codecogs.com/gif.latex?w_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?v_{i}">：荷物iの価値．  
+
 　　　　C：重量制限
 
 <h2>定式化</h2>
@@ -33,8 +34,6 @@
    <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;350">   <div align="right">④</div>
 </div>
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>
-
-   J:飴の集合 = {14,15,16,17,18}
     
    <div align="center">
    <img src="https://latex.codecogs.com/gif.latex?\sum_{j&space;\in&space;J}^{}&space;x_{j}&space;\geq&space;1"><div align="right">⑤</div>
