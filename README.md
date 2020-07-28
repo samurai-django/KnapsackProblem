@@ -11,7 +11,7 @@
     
 ** 定式化  
 
-  <img src="https://latex.codecogs.com/gif.latex?\sum_{i}^{}">
+　　Maximize <img src="https://latex.codecogs.com/gif.latex?\sum_{i}^{}"><img src="https://latex.codecogs.com/gif.latex?w_{i}"><img src="https://latex.codecogs.com/gif.latex?x_{i}">
  
 
 ***
