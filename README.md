@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-# ナップサック問題を使った演習　　
-</div
+<div style="text-align: center;"># ナップサック問題を使った演習</div>
 #(1-1)
 
 ナップサック問題：ナップサックの重量制限以下となる制約下で価値合計が最大となる荷物を選ぶ.  
