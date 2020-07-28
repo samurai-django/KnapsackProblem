@@ -9,7 +9,7 @@
 　　　　C：重量制限
 ***
     
-** 定式化  
+**定式化  
 
 　　　<img src="https://latex.codecogs.com/gif.latex?Maximize\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
 
