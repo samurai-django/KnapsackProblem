@@ -12,29 +12,25 @@
 
    <h3>Maximize</h3>
 <div align="center">   
-　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}"><div align="right"></div>
 </div>   
    <h3>subject to</h3>
 <div align="center">
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C&space;\,&space;\,&space;\,&space;\,&space;x_{i}\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
-   <div align="right">①</div>
+   <div align="right">2</div>
 </div>
 
 ***
 
 
 <h4>(2-1) C は 300(g)プラスマイナス50(g)以内</h4>
-   <h3>Maximize</h3>
+2の制約式に代わって,式3,4を使う
 <div align="center">
-　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
-</div>
-   <h3>subject to</h3>
-<div align="center">
-　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300"><div align="right">3</div>
 </div>
 
 <div align="center">
-   <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
+   <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">   <div align="right">4</div>
 </div>
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>  
 
