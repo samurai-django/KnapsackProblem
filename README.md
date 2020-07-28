@@ -29,6 +29,7 @@
 
 <h4>(2-1) C は 300(g)プラスマイナス50(g)以内</h4>
 目的関数①、制約式②に代わって,③,④を使用
+
 <div align="center">
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;250"><div align="right">③</div>
 </div>
