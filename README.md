@@ -33,7 +33,9 @@
    <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;350">   <div align="right">④</div>
 </div>
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>
+
     J:飴の集合 = {14,15,16,17,18}
+    
    <div align="center">
    <img src="https://latex.codecogs.com/gif.latex?\sum_{j&space;\in&space;J}^{}&space;x_{j}&space;\geq&space;1"><div align="right">⑤</div>
    </div>
