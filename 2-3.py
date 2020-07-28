@@ -47,4 +47,6 @@ m += x[9] + x[10] + x[11] + x[12] + x[13] <= M * z
 m += x[9] + x[10] + x[11] + x[12] + x[13] >= 3- (M * (1 - z))
 
 m.solve()
-print('(2-3) 荷物の価値:{} / 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+print('(2-3) 荷物の価値:{} 円/ 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+# 実行結果
+# (2-3) 荷物の価値:2320.0 円/ 組み合わせ:[4, 8, 10, 11, 12, 15, 16, 18, 19]

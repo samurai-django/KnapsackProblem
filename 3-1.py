@@ -46,4 +46,6 @@ m += -lpDot(v, x) + y <= z
 
 
 m.solve()
-print('(3-1) 荷物の価値:{} / 組み合わせ:{}'.format(y - value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+print('(3-1) 荷物の価値:{}　円 / 組み合わせ:{}'.format(y - value(m.objective) , [i for i in r if value(x[i]) > 0.5]))
+# 実行結果
+# (3-1) 荷物の価値:1500.0 円/ 組み合わせ:[1, 5, 9, 11, 12, 13, 14, 18]

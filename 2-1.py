@@ -48,4 +48,6 @@ m += lpDot(w, x) >= W - W_min
 
 m.solve()
 
-print('(2-1) 荷物の価値:{} / 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+print('(2-1) 荷物の価値:{} 円/ 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+# 実行結果
+# (2-1) 荷物の価値:2630.0 円/ 組み合わせ:[1, 3, 4, 8, 11, 14, 15, 16, 18, 19]

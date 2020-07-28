@@ -42,4 +42,6 @@ m += x[14] + x[15] + x[16] + x[17] + x[18]>= 1
 
 m.solve()
 
-print('(2-2) 荷物の価値:{} / 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+print('(2-2) 荷物の価値:{} 円/ 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+# 実行結果
+# (2-2) 荷物の価値:2370.0 円/ 組み合わせ:[4, 8, 11, 13, 14, 15, 16, 18, 19]

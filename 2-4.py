@@ -49,4 +49,6 @@ m += w[4] * x[4] + w[5] * x[5] + w[6] * x[6] + w[7] * x[7] + w[8] * x[8] >= 150 
 
 m.solve()
 
-print('(2-4) 荷物の価値:{} / 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+print('(2-4) 荷物の価値:{} 円/ 組み合わせ:{}'.format(value(m.objective), [i for i in r if value(x[i]) > 0.5]))
+# 実行結果
+# (2-4) 荷物の価値:2320.0 円/ 組み合わせ:[1, 3, 4, 8, 11, 14, 15, 16, 19]
