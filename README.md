@@ -1,14 +1,16 @@
 <h1>ナップサック問題を使った演習</h1>
 
-#### (1-1)
+
 
 ナップサック問題：ナップサックの重量制限以下となる制約下で価値合計が最大となる荷物を選ぶ.  
 　　　　I：荷物の集合={0,...,19},  
 　　　　<img src="https://latex.codecogs.com/gif.latex?x_{i}">∈{0,1}: 荷物iを選ぶなら1，そうでない0とするバイナリ変数.  
-　　　　<img src="https://latex.codecogs.com/gif.latex?c_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?p_{i}">：荷物iの価値．  
-　　　　C：重量制限  
+　　　　<img src="https://latex.codecogs.com/gif.latex?w_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?v_{i}">：荷物iの価値．  
+　　　　C：重量制限
+***
+    
 定式化  
-௜ݔ௜݌ ෍Maximize  
+ 
 
 ***
 
