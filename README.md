@@ -28,7 +28,7 @@
 
 
 <h4>(2-1) C は 300(g)プラスマイナス50(g)以内</h4>
-②の制約式に代わって,③,④を使用
+目的関数①、②の制約式に代わって,③,④を使用
 <div align="center">
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;250"><div align="right">③</div>
 </div>
@@ -37,6 +37,7 @@
    <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;350">   <div align="right">④</div>
 </div>
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>
+目的関数①,制約式②,⑤を使用
     
    <div align="center">
    <img src="https://latex.codecogs.com/gif.latex?\sum_{j&space;\in&space;J}^{}&space;x_{j}&space;\geq&space;1"><div align="right">⑤</div>
