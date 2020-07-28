@@ -20,9 +20,9 @@
 
 <h4>(2-1) C は 300(g)プラスマイナス50(g)以内</h4>
 
-　　　<img src="https://latex.codecogs.com/gif.latex?Maximize\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
 
-　　　<img src="https://latex.codecogs.com/gif.latex?subject\,&space;\,&space;to\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
 
    <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
 </div>
