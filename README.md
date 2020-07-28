@@ -10,9 +10,7 @@
   
   <img src="https://latex.codecogs.com/gif.latex?x_{i}">∈{0,1}: 荷物iを選ぶなら1，そうでない0とするバイナリ変数.
   
-  <img src="https://latex.codecogs.com/gif.latex?w_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?v_{i}">：荷物iの価値．  
-
-　　　　C：重量制限
+  <img src="https://latex.codecogs.com/gif.latex?w_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?v_{i}">：荷物iの価値．C：重量制限
 
 <h2>定式化</h2>
 
