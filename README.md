@@ -23,5 +23,5 @@ subject to
 (2-4) C = 300(g)，ガム80g以下ならばチョコレートは150g以上
 
 (3-1) 価値をy円になるべく近づける
-\sum_{i}^{}
+
 <img src="https://latex.codecogs.com/gif.latex?\sum_{i}^{}">
