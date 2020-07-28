@@ -15,9 +15,9 @@
 
 <img src="https://latex.codecogs.com/gif.latex?subject&space;\;&space;\,&space;to">
 
-<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C">
 
-<img src="https://latex.codecogs.com/gif.latex?x_{i}&space;\:&space;\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
+　　　<img src="https://latex.codecogs.com/gif.latex?x_{i}&space;\:&space;\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
 
 ***
 
