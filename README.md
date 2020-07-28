@@ -29,12 +29,26 @@
 | 0    | Apple         | US          |      $604.30B |
 | 1    | Google        | US          |      $518.92B |
 | 2    | Microsoft     | US          |      $436.83B |
-| 0    | Apple         | US          |      $604.30B |
-| 1    | Google        | US          |      $518.92B |
-| 2    | Microsoft     | US          |      $436.83B |
-| 0    | Apple         | US          |      $604.30B |
-| 1    | Google        | US          |      $518.92B |
-| 2    | Microsoft     | US          |      $436.83B |
-| 0    | Apple         | US          |      $604.30B |
-| 1    | Google        | US          |      $518.92B |
-| 2    | Microsoft     | US          |      $436.83B |
+| 3    | Apple         | US          |      $604.30B |
+| 4    | Google        | US          |      $518.92B |
+| 5    | Microsoft     | US          |      $436.83B |
+| 6    | Apple         | US          |      $604.30B |
+| 7    | Google        | US          |      $518.92B |
+| 8    | Microsoft     | US          |      $436.83B |
+| 9    | Apple         | US          |      $604.30B |
+| 10    | Google        | US          |      $518.92B |
+| 11    | Microsoft     | US          |      $436.83B |
+| 12    | Apple         | US          |      $604.30B |
+| 13    | Google        | US          |      $518.92B |
+| 14    | Microsoft     | US          |      $436.83B |
+| 15    | Apple         | US          |      $604.30B |
+| 16    | Google        | US          |      $518.92B |
+| 17    | Microsoft     | US          |      $436.83B |
+| 18    | Apple         | US          |      $604.30B |
+| 19    | Google        | US          |      $518.92B |
+
+
+
+
+
+
