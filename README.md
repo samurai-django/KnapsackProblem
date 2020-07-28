@@ -11,6 +11,7 @@
     
 **定式化  
 
+<img src="https://latex.codecogs.com/gif.latex?Maximize">
 <img src="https://latex.codecogs.com/gif.latex?Maximize&space;\sum_{i\in&space;I}^{}&space;w_i{x_{i}}">
 
 <img src="https://latex.codecogs.com/gif.latex?subject&space;\;&space;\,&space;to">
