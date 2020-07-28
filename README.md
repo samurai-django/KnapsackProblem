@@ -23,7 +23,7 @@
 
 <img src="https://latex.codecogs.com/gif.latex?\sum_{i}^{}">
 
-<div style="text-align: center;">
+
 | I    | name | weight | value |
 |:------:|:-------:|:-----------:|:--------------:|
 | 0    | ミントガム         | 30         |      120 |
@@ -46,7 +46,7 @@
 | 17    | ミント飴     | 50          |      170 |
 | 18    | 黒飴         | 50          |      310 |
 | 19    | キャラメル        | 30          |      310 |
-</div>
+
 
 
 
