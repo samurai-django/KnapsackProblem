@@ -1,4 +1,4 @@
-<div style="text-align:right;"><h5>ナップサック問題を使った演習</h5></div>
+<h2>ナップサック問題を使った演習</h2>
 
 <div style="text-align: center;">
 【中央寄せにする文章を記述】
