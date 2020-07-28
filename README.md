@@ -24,7 +24,7 @@
 <img src="https://latex.codecogs.com/gif.latex?\sum_{i}^{}">
 
 
-| 列 1 | 列 2 (左寄せ) | 列 3 (中央) | 列 4 (右寄せ) |
+| I    | name | weight | value |
 |------|:--------------|:-----------:|--------------:|
 | 0    | Apple         | US          |      $604.30B |
 | 1    | Google        | US          |      $518.92B |
