@@ -19,8 +19,10 @@
 
 
 <h4>(2-1) C は 300(g)プラスマイナス50(g)以内</h4>
-　　　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
-　　　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
+
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
+   
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>  
 <h4>(2-3) C = 300(g)，果物を持っていく場合は3種類以上</h4>  
 <h4>(2-4) C = 300(g)，ガム80g以下ならばチョコレートは150g以上<h4>
