@@ -22,9 +22,7 @@
 
 　　　<img src="https://latex.codecogs.com/gif.latex?Maximize\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}">
 
-　　　<img src="https://latex.codecogs.com/gif.latex?subject\,&space;\,&space;to\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300">
-   
-   <img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
+　　　<img src="https://latex.codecogs.com/gif.latex?subject\,&space;\,&space;to\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\geq&space;300"><img src="https://latex.codecogs.com/gif.latex?\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\,&space;\sum_{i&space;\in&space;I}^{}&space;{w_{i}}x_{i}&space;\leq&space;500">
    
 <h4>(2-2) C = 300(g)，必ず飴は1種類以上持っていく</h4>  
 
