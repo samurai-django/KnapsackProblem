@@ -81,14 +81,19 @@
 
 
 
-   <h2>minimize</h2>
+<h2>minimize</h2>
 <div align="center">   
 　　　<img src="https://latex.codecogs.com/gif.latex?z"><div align="right">⑪</div>
-</div>   
-   <h2>subject to</h2>
+</div>
+
+<h2>subject to</h2>
 <div align="center">
-　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C&space;\,&space;\,&space;\,&space;\,&space;x_{i}\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
-   <div align="right">②</div>
+  <img src="z \geq \sum_{i \in I}^{} v_{i}x_{i} - y">
+  <div align="right">⑫</div>
+</div>
+<div align="center">
+  <img src="https://latex.codecogs.com/gif.latex?z&space;\geq&space;-\sum_{i&space;\in&space;I}^{}&space;v_{i}x_{i}&space;&plus;&space;y">
+  <div align="right">⑬</div>
 </div>
 
 ***
