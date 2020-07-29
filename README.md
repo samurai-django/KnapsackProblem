@@ -83,7 +83,7 @@
 
    <h2>minimize</h2>
 <div align="center">   
-　　　<div align="right">⑪</div>
+　　　<img src="https://latex.codecogs.com/gif.latex?z"><div align="right">⑪</div>
 </div>   
    <h2>subject to</h2>
 <div align="center">
