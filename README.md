@@ -8,6 +8,10 @@
   
   J:飴の集合 = {14,15,16,17,18}
   
+  K:果物の集合 = {9,10,11,12,13}
+  
+  J:飴の集合 = {14,15,16,17,18}
+  
   <img src="https://latex.codecogs.com/gif.latex?x_{i}">∈{0,1}: 荷物iを選ぶなら1，そうでない0とするバイナリ変数.
   
   <img src="https://latex.codecogs.com/gif.latex?w_{i}">：荷物iの重量，<img src="https://latex.codecogs.com/gif.latex?v_{i}">：荷物iの価値．C：重量制限
@@ -48,11 +52,11 @@
 目的関数①,制約式②,⑥,⑦を使用
 
    <div align="center">
-   <img src="https://latex.codecogs.com/gif.latex?\sum_{j&space;\in&space;J}^{}&space;x_{j}&space;\leq&space;M*z"><div align="right">⑥</div>
+   <img src="https://latex.codecogs.com/gif.latex?\sum_{k&space;\in&space;K}^{}&space;x_{j}&space;\leq&space;M*z"><div align="right">⑥</div>
    </div>
    
    <div align="center">
-   <img src="https://latex.codecogs.com/gif.latex?\sum_{j&space;\in&space;J}^{}&space;x_{j}&space;\geq&space;3&space;-&space;M*(1-z)"><div align="right">⑦</div>
+   <img src="https://latex.codecogs.com/gif.latex?\sum_{k&space;\in&space;K}^{}&space;x_{j}&space;\geq&space;3&space;-&space;M*(1-z)"><div align="right">⑦</div>
    </div>
    
 <h4>(2-4) C = 300(g)，ガム80g以下ならばチョコレートは150g以上<h4>
