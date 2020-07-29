@@ -88,7 +88,7 @@
 
 <h2>subject to</h2>
 <div align="center">
-  <img src="z \geq \sum_{i \in I}^{} v_{i}x_{i} - y">
+  <img src="https://latex.codecogs.com/gif.latex?z&space;\geq&space;\sum_{i&space;\in&space;I}^{}&space;v_{i}x_{i}&space;-&space;y">
   <div align="right">⑫</div>
 </div>
 <div align="center">
