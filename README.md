@@ -75,9 +75,21 @@
    <img src="https://latex.codecogs.com/gif.latex?\sum_{m&space;\in&space;M}^{}&space;w_{m}x_{m}&space;\geq&space;150&space;-&space;M*(1-z)"><div align="right">⑩</div>
    </div>
    
-   
+***
 
 <h4>(3-1) 価値をy円になるべく近づける</h4>  
+
+<h2>定式化</h2>
+
+   <h3>Maximize</h3>
+<div align="center">   
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}"><div align="right">①</div>
+</div>   
+   <h3>subject to</h3>
+<div align="center">
+　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C&space;\,&space;\,&space;\,&space;\,&space;x_{i}\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
+   <div align="right">②</div>
+</div>
 
 ***
 データ
