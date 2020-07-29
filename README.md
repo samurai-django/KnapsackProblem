@@ -77,15 +77,15 @@
    
 ***
 
-<h4>(3-1) 価値をy円になるべく近づける</h4>  
+<h3>(3-1) 価値をy円になるべく近づける</h3>  
 
 
 
-   <h3>Maximize</h3>
+   <h2>minimize</h2>
 <div align="center">   
-　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i\in&space;I}^{}&space;v_{i}{x_{i}}"><div align="right">①</div>
+　　　<div align="right">⑪</div>
 </div>   
-   <h3>subject to</h3>
+   <h2>subject to</h2>
 <div align="center">
 　　　<img src="https://latex.codecogs.com/gif.latex?\sum_{i&space;\in&space;I}^{}&space;w_{i}x_{i}&space;\leq&space;C&space;\,&space;\,&space;\,&space;\,&space;x_{i}\in&space;\left&space;\{&space;0,1&space;\right&space;\}">
    <div align="right">②</div>
