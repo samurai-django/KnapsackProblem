@@ -61,8 +61,8 @@
    <img src="https://latex.codecogs.com/gif.latex?\sum_{k&space;\in&space;K}^{}&space;x_{k}&space;\geq&space;3&space;-&space;M*(1-z)"><div align="right">⑦</div>
    </div>
    
-<h4>(2-4) C = 300(g)，ガム80g以下ならばチョコレートは150g以上<h4>
-  
+<h4>(2-4) C = 300(g)，ガム80g以下ならばチョコレートは150g以上</h4>
+目的関数①,制約式②,⑧,⑨,⑩を使用
    <div align="center">
    <img src="https://latex.codecogs.com/gif.latex?\sum_{l&space;\in&space;L}^{}&space;x_{l}&space;\geq&space;80&space;-&space;M*z"><div align="right">⑧</div>
    </div>
