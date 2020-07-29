@@ -79,7 +79,7 @@
 
 <h4>(3-1) 価値をy円になるべく近づける</h4>  
 
-<h2>定式化</h2>
+
 
    <h3>Maximize</h3>
 <div align="center">   
